@@ -18,23 +18,20 @@ Hardware
 
 Software 
 
--vmware fusion
+-vmware fusion  
+free personal use, email registration / key required, no need to update host os config, also good to have other vm of fedora, centos to try docker, go lang, rust, ebpf projects  
+like the Virtual Machine Libray view  
+no vm clone option, search ubuntu  
 
-free personal use, email registration / key required, no need to update host os config, also good to have other vm of fedora, centos to try docker, go lang, rust, ebpf projects
-like the Virtual Machine Libray view
-no vm clone option, search ubuntu
-
--ubuntu 
-
+-ubuntu  
 free open source, tried 18.04, 20.04, 22.04.1 (new version for ebpf and support of new kernel 5.15.x)
-suggest install the version which match matching k8s certification cluster, 
-open below and search k8s version
-https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-preparation-checklist
+suggest install the version which match matching k8s certification cluster  
+open below and search k8s version  
+https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-preparation-checklist  
 
--kubernetes
-
-suggest install the version which match matching k8s certification cluster, 
-open below and search k8s version
-https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks
+-kubernetes  
+suggest install the version which match matching k8s certification cluster  
+open below and search k8s version  
+https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks  
 
 
